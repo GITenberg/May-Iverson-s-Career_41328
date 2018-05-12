@@ -1,0 +1,31 @@
+_repo: May-Iverson-s-Career_41328
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41328-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jordan, Elizabeth Garver
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '197'
+    url: http://www.gutenberg.org/2009/agents/197
+description: ''
+gutenberg_issued: '2012-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Women college graduates -- Fiction'
+- !lcsh 'Dramatists -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Authors -- Fiction'
+title: May Iverson's Career
+url: http://www.gutenberg.org/ebooks/41328
